@@ -1,0 +1,16 @@
+.banner{
+    background-color:cyan;
+    height:200px;
+    width:100%;
+    margin-bottom:50px;
+}
+.banner-title{
+    font-family:Georgia, serif;
+    color:indigo;
+    text-align:center;
+    position:relative;
+    top:50%;
+
+
+
+}
